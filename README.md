@@ -1,1 +1,11 @@
-# JS-YJ-weddingday.github.io
+# 김지상과 임예주의 결혼식 모바일 청첩장
+
+이 repository는 결혼식 초대를 위한 모바일청첩장입니다.
+
+
+## 예식정보
+
+* 날짜 : 2024.05.18 (토)
+* 장소 : 서울 서초구 서초중앙로 14 더화이트베일 1층
+* 청첩장 url : https://daengae.github.io/
+
